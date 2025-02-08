@@ -2,91 +2,22 @@
   <img height="168" width="full" src="https://i.ibb.co.com/vXJTrbp/banner.jpg"  />
 </div>
 
-<!-- Introduction -->
-### 👋 Hi there, I'm sultan!  
-#### 🚀 Full Stack Developer | Open Source Contributor  
 
-I’m a passionate developer constantly learning and exploring new technologies.  
-Currently, I’m working on building scalable web applications and exploring **Next.js**.  
+# 💫 About Me:
+♨ Check out my portfolio and projects at https://apathetic-branch.surge.sh/<br><br>🌱 I’m currently learning TypeScript, Next.Js, Redux<br><br>💬 Ask me about Html, CSS, JavaScript, React,  NodeJs, MongoDB<br><br>📫 How to reach me sultanweb93@gmail.com
 
-🌟 **Fun Fact:** I love solving problems and automating things with code!  
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sultan.phy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sultan-ph10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sultanweb93@gmail.com) 
 
-<!-- About Me -->
-### About Me  
-I am a software developer with a focus on **frontend** and **backend** development.  
-I enjoy creating user-friendly web applications, collaborating on open-source projects, and improving user experiences.  
-
-- 🔭 I’m currently working on a **Tourism Website** project.  
-- 🌱 I’m learning **Next.js**   
-- 💬 Ask me about **React**, **Node.js**, or **APIs**.  
+# 💻 Tech Stack:
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sultangithub04&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sultangithub04&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sultangithub04&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sultangithub04&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Skills Section -->
-### 🛠️ Tech Stack  
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
-
-<!-- Social Links -->
-### 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sultan)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sultan)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sultan)  
-
----
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
-
-## 🔥 Pinned Repositories  
-
-### **1. Sports Website**  
-A modern sports platform for booking tours and managing travel itineraries.  
-🌐 [Live Link](https://lotus-a10.web.app)  
-💻 Tech Stack: React, Next.js, TailwindCSS, Node.js  
-
-#### README.md (Inside Repository):  
-```markdown
-# 🏝️ sports Website  
-
-### Overview  
-A user-friendly tourism platform where users can:  
-- Search and filter tours.  
-- Book tours with a secure payment system.  
-- View tour details with interactive maps.  
-
----
-
-### Tech Stack  
-- **Frontend:** React, Next.js, TailwindCSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-
----
-
-### Features  
-- 🔍 Search and filter tours by location, price, and type.  
-- 📱 Responsive design for mobile, tablet, and desktop.  
-- 💳 Integrated with Stripe for secure payments.  
-
----
-
-### Installation Guide  
-1. Clone the repository:  
-   ```bash
-   git clone [https://github.com/yourusername/tourism-website.git](https://github.com/programming-hero-web-course1/b10-a9-authentication-sultangithub04)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
